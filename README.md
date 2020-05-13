@@ -1,2 +1,2 @@
-# barebones-dark-portfolio-jekyll
-Single-page site with the W3School Dark Portfolio theme built with Jekyll
+# barebones-jekyll
+bare bones jekyll starter for when I create new jekyll sites

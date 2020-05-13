@@ -1,0 +1,26 @@
+# Site Config (including for SEO)
+author: "Some person"
+title: "I'm John Doe"
+tagline: "A Dark Portfolio single page site built with Jekyll"
+description: "For SEO"
+keywords: "Jekyll"
+
+# Social (includes SEO)
+linkedin: "https://www.linkedin.com/"
+twitter: "https://twitter.com/"
+github: "https://github.com/shenchingtou"
+logo: /favicon-16x16.png
+image: /assets/w3images/avatar_smoke.jpg
+
+# Site config
+baseurl: ""
+
+markdown: kramdown
+
+# Plugins
+plugins: [jekyll-seo-tag]  
+
+exclude: [
+  Gemfile*,
+  .gitignore,
+]
