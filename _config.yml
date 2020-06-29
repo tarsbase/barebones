@@ -13,7 +13,7 @@ logo: /favicon-16x16.png
 image: /assets/w3images/avatar_smoke.jpg
 
 # Site config
-baseurl: ""
+baseurl: "barebones"
 
 markdown: kramdown
 
